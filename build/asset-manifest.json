@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portafolio2023/build/static/css/main.b491d64e.css",
+    "main.js": "/portafolio2023/build/static/js/main.72d1b82d.js",
+    "static/media/p2.jpg": "/portafolio2023/build/static/media/p2.b431b723103f458ec74f.jpg",
+    "static/media/ig.png": "/portafolio2023/build/static/media/ig.b3a8d99f6987add098c3.png",
+    "static/media/p3.jpg": "/portafolio2023/build/static/media/p3.815bfdd9bd1842806ed0.jpg",
+    "static/media/p1.jpg": "/portafolio2023/build/static/media/p1.eab79737afba1bd30316.jpg",
+    "static/media/wa.png": "/portafolio2023/build/static/media/wa.93915d01f292ef83f263.png",
+    "static/media/h2.png": "/portafolio2023/build/static/media/h2.eb1ea8f38fa5be76060a.png",
+    "static/media/fondo.webp": "/portafolio2023/build/static/media/fondo.dbea1b3bd4ecec8d0735.webp",
+    "static/media/h3.png": "/portafolio2023/build/static/media/h3.e8b254ceb75ddcc519b8.png",
+    "static/media/h4.png": "/portafolio2023/build/static/media/h4.b8411ca27a81e93c95d3.png",
+    "static/media/h1.png": "/portafolio2023/build/static/media/h1.c481eda4af2abbaceb97.png",
+    "static/media/fb.png": "/portafolio2023/build/static/media/fb.c8631be0af1e4e130368.png",
+    "static/media/foto2.webp": "/portafolio2023/build/static/media/foto2.2fc19748e75438b869af.webp",
+    "index.html": "/portafolio2023/build/index.html",
+    "main.b491d64e.css.map": "/portafolio2023/build/static/css/main.b491d64e.css.map",
+    "main.72d1b82d.js.map": "/portafolio2023/build/static/js/main.72d1b82d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b491d64e.css",
+    "static/js/main.72d1b82d.js"
+  ]
+}
