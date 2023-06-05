@@ -7,7 +7,7 @@ export default function Skills(){
   return (
     <div className='backdrop-filter backdrop-blur-lg bg-opacity-50 contenedor-delcontenedor h-screen'id='habilidades'>
       <h4 className='text-center text-white mb-20 text-2xl'>HABILIDADES</h4>
-      <div className={`contenedor-totalxd ${rotating ? 'rotating' : ''}`}   onClick={handleContainerClick}>
+      <div className={`contenedor-totalxd ${rotating ? 'rotating' : ''} py-6`}   onClick={handleContainerClick}>
         
         <div class="circle-container">
           <div class="circle"></div>
